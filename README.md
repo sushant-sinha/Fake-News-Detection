@@ -1,4 +1,4 @@
-# fake-news-detection
+# Fake News Detection
 
 Colab Link: https://colab.research.google.com/drive/1J7-yeaDgUT-GsEVNda5NkZUTaG2VFRu7?usp=sharing
 
